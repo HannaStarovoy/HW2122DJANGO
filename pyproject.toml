@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "lesson21-django"
+version = "0.1.0"
+description = ""
+authors = ["ig-rudenko <ig.rudenko1@yandex.ru>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+django = "^5.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
